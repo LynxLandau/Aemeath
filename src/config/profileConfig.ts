@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/rain-avatar.webp",
 
 	// 名字
-	name: "Rain",
+	name: "雫之绒野",
 
 	// 个人签名
-	bio: "Hello, I'm Rain.",
+	bio: "Hello, I'm 雫之绒野.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
