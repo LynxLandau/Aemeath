@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/Jarvis0227",
+			url: "https://github.com/rongye-dev",
 			showName: false,
 		},
 		{
@@ -36,13 +36,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "微信",
 			icon: "fa7-brands:weixin",
-			url: "copy:19065346944",
+			url: "copy:AnbarCat",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "copy:1953549196@qq.com",
+			url: "copy:nrongye@qq.com",
 			showName: false,
 		},
 	],
