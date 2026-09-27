@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
 	themeVersion: "V3.4.0",
 
 	// 站点 URL
-	site_url: "https://blog.rongye.icu",
+	site_url: "https://www.rongye.icu",
 
 	// 站点描述
 	description:
@@ -78,10 +78,10 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/chaoc-tingyu-avatar.webp",
-			alt: "朝朝听雨",
+			alt: "雫之绒野",
 		},
 		// 导航栏标题
-		title: "朝朝听雨",
+		title: "雫之绒野",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
