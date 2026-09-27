@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "朝朝听雨",
+	title: "雫之绒野",
 
 	// 站点副标题
 	subtitle: "物物而不物于物，念念而不念于念",
